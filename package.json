@@ -1,0 +1,19 @@
+{
+  "name": "twilio-node-sms",
+  "version": "1.0.0",
+  "description": "Trial for sending sms",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twilio",
+    "sms"
+  ],
+  "author": "Gabriel C Moris",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "twilio": "^3.77.0"
+  }
+}
